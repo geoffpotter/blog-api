@@ -1,0 +1,22 @@
+{
+  "name": "blog-api",
+  "version": "0.0.1",
+  "description": "CMS and Blog API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geoffpotter/blog-api.git"
+  },
+  "author": "Geoff Potter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geoffpotter/blog-api/issues"
+  },
+  "homepage": "https://github.com/geoffpotter/blog-api#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
